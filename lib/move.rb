@@ -9,6 +9,6 @@ end
 def input_to_index(user_input)
   user_input = ("n").to_i 
   
-  board[index] = user_input - 1   
+  
     
 end
