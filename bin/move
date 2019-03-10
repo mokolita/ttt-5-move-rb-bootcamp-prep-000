@@ -16,4 +16,4 @@ character = "X"
 
 move(board,input, character)
 
-display_board()
+display_board(board)
