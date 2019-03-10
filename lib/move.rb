@@ -8,6 +8,6 @@ end
 
 def input_to_index(user_input)
   user_input = ("n").to_i 
-    n = n - 1 
+    
     
 end
