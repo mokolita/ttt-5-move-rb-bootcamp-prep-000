@@ -15,6 +15,6 @@ input_to_index(input)
 index = input_to_index
 character = "X"
 
-move(board, input, character)
+move(board, index, character)
 
 display_board(board)
